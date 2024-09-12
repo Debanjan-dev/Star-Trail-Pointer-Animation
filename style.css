@@ -6,6 +6,7 @@ body {
 
 span {
 	background: url("https://cdn4.iconfinder.com/data/icons/essentials-72/24/029_-_Star-64.png");
+	/* if you want hearts instead of stars use this link https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_54-512.png */
 	width: 100px;
 	height: 100px;
 	position: absolute;
